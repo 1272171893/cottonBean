@@ -1,0 +1,29 @@
+{
+    "name": "cottonBean",
+    "version": "0.01",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/1272171893/cottonBean.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/1272171893/cottonBean/issues"
+    },
+    "homepage": "https://github.com/1272171893/cottonBean#readme",
+    "devDependencies": {
+        "@babel/cli": "^7.13.10",
+        "@babel/core": "^7.13.10",
+        "@babel/preset-env": "^7.13.10",
+        "@babel/register": "^7.13.8"
+    },
+    "dependencies": {
+        "@babel/polyfill": "^7.12.1"
+    }
+}
